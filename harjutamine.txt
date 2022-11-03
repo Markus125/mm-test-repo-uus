@@ -1,0 +1,2 @@
+GitHub on veebileht kus saab faile jagada (enamasti kood), võtta varemaid versioone failidest ja salvestada neid faile.
+Seda kasutavad peamiselt kooderiad.
