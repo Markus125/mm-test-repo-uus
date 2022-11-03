@@ -1,0 +1,5 @@
+GitHub on veebileht kus saab faile jagada (enamasti kood), võtta varemaid versioone failidest ja salvestada neid faile.
+Seda kasutavad peamiselt kooderiad.
+.
+Mina saan kasutada GitHubi enda koodi salvestamiseks kooderimis tunnis.
+Lisaks saan ka sellega õpetajale oma koodi esitada.
